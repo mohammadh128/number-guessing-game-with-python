@@ -7,7 +7,7 @@ step 1:
 
 ---------------------------------
 step 2:
-  using the choosen bounds we select a random number between the given bounds
+  using the chosen bounds we select a random number between the given bounds
   
 ---------------------------------
 step 3:
